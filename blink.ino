@@ -1,4 +1,4 @@
-void setups() {
+void setup() {
   pinMode(LED_BUILTIN, INPUT);
 }
 
